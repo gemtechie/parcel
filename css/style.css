@@ -440,9 +440,11 @@ header nav {
    margin:0 0 40px;
    padding:0;
  }
+
  .left-nav .items ul li {
    list-style-type: none;
    margin-bottom: 15px;
+ 
  }
  .left-nav .items ul li a {
    color:#FFFFFF;
@@ -454,6 +456,8 @@ header nav {
    text-align: center;
    margin-right:8px;
  }
+html:active .all-items li {
+  background: #FF8B34;   
 }
 
   /* LEFT NAVBAR SETTINGS */
